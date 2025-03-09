@@ -1,2 +1,3 @@
-# Hello! I am a student from Atlanta pursuing a Computer Science degree. 
-# I am currently 
+# I like to code.
+ Sometimes I create things
+ Sometimes they work.
